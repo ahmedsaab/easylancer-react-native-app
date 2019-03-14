@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Easylancer App",
+    "githubUrl": "https://github.com/ahmedsaab/easylancer-react-native-app"
   }
 }
